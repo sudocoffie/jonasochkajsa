@@ -5,12 +5,6 @@
     </section>
 
     <BigDaySection />
-    <!-- <section style="height: 300px">
-      <parallax style="max-height: 600px" :speed-factor="0.3">
-        <img style="max-height: 600px" src="../assets/solnedgang.jpg" />
-      </parallax> 
-    </section>
--->
     <FoodSection />
     <ToastMasterSection />
     <b-carousel :autoplay="true" :pause-hover="true" :interval="2000">

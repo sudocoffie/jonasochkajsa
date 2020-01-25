@@ -28,10 +28,12 @@ export default {
 @import "~bulma/sass/utilities/_all";
 
 // Set your colors
-$primary: #000;
+$primary: #eecfca;
 $primary-invert: findColorInvert($primary);
 $twitter: #4099ff;
 $twitter-invert: findColorInvert($twitter);
+$wedding: #eecfca;
+$wedding-invert: findColorInvert($wedding);
 
 // Setup $colors to use as bulma classes (e.g. 'is-twitter')
 $colors: (
@@ -74,6 +76,10 @@ $colors: (
   "twitter": (
     $twitter,
     $twitter-invert
+  ),
+  "wedding": (
+    $wedding,
+    $wedding-invert
   )
 );
 

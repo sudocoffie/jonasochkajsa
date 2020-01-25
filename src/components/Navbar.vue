@@ -16,7 +16,7 @@
       <b-navbar-item tag="router-link" :to="{ path: '/anmalan' }">
         ANMÄLAN
       </b-navbar-item>
-      <b-navbar-item tag="router-link" :to="{ path: '/musik' }">
+      <b-navbar-item tag="router-link" :to="{ path: '/musicsuggestion' }">
         MUSIK-TIPS
       </b-navbar-item>
     </template>
