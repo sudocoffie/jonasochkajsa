@@ -1,6 +1,15 @@
 <template>
   <section class="section color-kajsa">
     <h1 class="title text-center">Kontakt</h1>
+    <h2
+      class="subtitle text-center center"
+      style="margin-bottom: 1rem; max-width: 850px"
+    >
+      Sebastian (Basse) och Julia kommer guida oss genom bröllopsmiddagen! Om ni
+      vill hålla tal eller annat spex anmäls detta till dem på kontaktuppgifter
+      nedan. De kan också svara på frågor om bröllopsgåva.
+    </h2>
+
     <div class="container tile is-parent">
       <div class="tile is-child is-2"></div>
       <div class="tile is-child is-4">
@@ -10,7 +19,7 @@
             src="../assets/basse.jpg"
             style="height:400px; width: auto"
           />
-          <h2 class="title" style="margin-top: 1rem; margin-bottom: 1rem">
+          <h2 class="title" style="margin-top: 1rem;">
             Toastmaster
           </h2>
           <h2 class="subtitle" style="margin: 0.5rem">
