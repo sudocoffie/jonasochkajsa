@@ -2,21 +2,17 @@
   <section class="section color-kajsa">
     <div class="container text-center tile is-parent">
       <div class="tile is-child is-4 columns is-vcentered">
-        <img
-          class="round-corner-image imagefix "
-          src="../assets/finklatt.jpg"
-        />
+        <img class="round-corner-image imagefix" src="../assets/finklatt.jpg" />
       </div>
 
       <div class="tile is-child is-8">
         <h1 class="title" style="margin: 2rem;">Den stora dagen</h1>
-        <h2 class="subtitle text-center fnt-xs">
-          2020-08-01
-        </h2>
+        <h2 class="subtitle text-center fnt-xs">2020-08-01</h2>
         <p class="tile is-8 is-center">
           Varmt välkomna till vigsel mellan Jonas och Kajsa klockan 16.00 i
           Närkes kils kyrka lördagen den 1 augusti 2020 samt efterföljande
-          middag och fest på BlåBergen. <br />OSA senast 30 april 2020
+          middag och fest på BlåBergen.
+          <br />OSA senast 30 april 2020
         </p>
         <br />
         <p class="tile is-8 is-center">
@@ -34,6 +30,10 @@
           platserna räcker till. Om man inte vill åka buss har BlåBergen ett
           förmånligt avtal med Örebro läns taxi.
         </p>
+        <br />
+        <p
+          class="tile is-8 is-center"
+        >Uppdatering! Med tanke på situationen som råder i och med Corona-viruset förlänger vi vårt OSA-datum till den 15e juni. Vi hoppas att det lugnar ner sig till sommaren och att alla nära och kära håller sig friska. Massor av kramar! / Jonas och Kajsa</p>
       </div>
     </div>
   </section>
