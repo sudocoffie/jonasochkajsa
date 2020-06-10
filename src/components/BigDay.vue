@@ -31,6 +31,14 @@
           förmånligt avtal med Örebro läns taxi.
         </p>
         <br />
+        <br />
+        <h2>
+          <b>OBS!</b>
+        </h2>
+        <p
+          class="tile is-8 is-center"
+        >OBS! Då intresset inte varit stort så har vi valt att avbokat bussen. Ni får därmed fixa skjuts på egen hand eller åka taxi. Kram från Kajsa och Jonas</p>
+        <br />
         <p
           class="tile is-8 is-center"
         >Uppdatering! Med tanke på situationen som råder i och med Corona-viruset förlänger vi vårt OSA-datum till den 15e juni. Vi hoppas att det lugnar ner sig till sommaren och att alla nära och kära håller sig friska. Massor av kramar! / Jonas och Kajsa</p>
@@ -55,6 +63,13 @@
           Massor av kramar!
           Kajsa och Jonas
         </p>
+
+        <h2>
+          <b>OBS!</b>
+        </h2>
+        <p
+          class="tile is-8 is-center"
+        >OBS! Då intresset inte varit stort så har vi valt att avbokat bussen. Ni får därmed fixa skjuts på egen hand eller åka taxi. Kram från Kajsa och Jonas</p>
       </div>
     </div>
   </section>
