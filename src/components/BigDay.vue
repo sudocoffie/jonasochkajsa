@@ -35,41 +35,91 @@
         <h2>
           <b>OBS!</b>
         </h2>
-        <p
-          class="tile is-8 is-center"
-        >OBS! Då intresset inte varit stort så har vi valt att avbokat bussen. Ni får därmed fixa skjuts på egen hand eller åka taxi. Kram från Kajsa och Jonas</p>
+        <p class="tile is-8 is-center">
+          OBS! Då intresset inte varit stort så har vi valt att avbokat bussen.
+          Ni får därmed fixa skjuts på egen hand eller åka taxi. Kram från Kajsa
+          och Jonas
+        </p>
         <br />
-        <p
-          class="tile is-8 is-center"
-        >Uppdatering! Med tanke på situationen som råder i och med Corona-viruset förlänger vi vårt OSA-datum till den 15e juni. Vi hoppas att det lugnar ner sig till sommaren och att alla nära och kära håller sig friska. Massor av kramar! / Jonas och Kajsa</p>
+        <p class="tile is-8 is-center">
+          Uppdatering! Med tanke på situationen som råder i och med
+          Corona-viruset förlänger vi vårt OSA-datum till den 15e juni. Vi
+          hoppas att det lugnar ner sig till sommaren och att alla nära och kära
+          håller sig friska. Massor av kramar! / Jonas och Kajsa
+        </p>
         <br />
         <h3>
           <b>Uppdatering! 2020-06-09</b>
         </h3>
         <p class="tile is-8 is-center">
-          <br />Hej kära vänner och familj! Vi hoppas att ni alla mår bra trots allt som pågår. Vi har fått en del frågor den senaste veckan så vi tänkte att vi ska berätta hur vi tänker inför vårt kommande bröllop...
+          <br />Hej kära vänner och familj! Vi hoppas att ni alla mår bra trots
+          allt som pågår. Vi har fått en del frågor den senaste veckan så vi
+          tänkte att vi ska berätta hur vi tänker inför vårt kommande bröllop...
           <br />
-          <br />Vi planerar att gifta oss den 1 augusti trots allt! Vi tänker också följa de rekommendationer som finns från myndigheterna. I dagsläget är det 50 personer som får närvara vid vigseln i kyrkan, vi återkommer om hur vi tänker kring detta då vi fortfarande hoppas att folkhälsomyndigheten kommer släppa på denna regel... OM riktlinjerna fortfarande gäller den 1a augusti kommer en del av er få följa vigseln digitalt eller liknande ifrån festlokalen, om någon har tips och idéer kring hur detta skulle kunna gå till är ni välkomna att höra av er till oss!
+          <br />Vi planerar att gifta oss den 1 augusti trots allt! Vi tänker
+          också följa de rekommendationer som finns från myndigheterna. I
+          dagsläget är det 50 personer som får närvara vid vigseln i kyrkan, vi
+          återkommer om hur vi tänker kring detta då vi fortfarande hoppas att
+          folkhälsomyndigheten kommer släppa på denna regel... OM riktlinjerna
+          fortfarande gäller den 1a augusti kommer en del av er få följa vigseln
+          digitalt eller liknande ifrån festlokalen, om någon har tips och idéer
+          kring hur detta skulle kunna gå till är ni välkomna att höra av er
+          till oss!
           <br />
-          <br />Kring bröllopsfesten gäller inte 50 personers regeln men självklart kommer vi tänka till på andra sätt. Vi kommer planera för att middagen kommer att ske utomhus och hoppas att vädret är med oss. Vi kommer också tänka till kring hur vi ska kunna corona-säkra i övrigt, exempelvis med handsprit och kring maten.
-          Vi tänker också att det är en självklarhet att man inte kommer om man har minsta symptom på sjukdom.
+          <br />Kring bröllopsfesten gäller inte 50 personers regeln men
+          självklart kommer vi tänka till på andra sätt. Vi kommer planera för
+          att middagen kommer att ske utomhus och hoppas att vädret är med oss.
+          Vi kommer också tänka till kring hur vi ska kunna corona-säkra i
+          övrigt, exempelvis med handsprit och kring maten. Vi tänker också att
+          det är en självklarhet att man inte kommer om man har minsta symptom
+          på sjukdom.
           <br />
-          <br />Vi hoppas att ni vill vara med och fira denna dag med oss! Känner ni er inte trygga med att närvara förstår vi det helt och hållet. Vi ska som sagt försöka lösa det här med en digital vigsel också så ni kan ju alltid vara med där!
+          <br />Vi hoppas att ni vill vara med och fira denna dag med oss!
+          Känner ni er inte trygga med att närvara förstår vi det helt och
+          hållet. Vi ska som sagt försöka lösa det här med en digital vigsel
+          också så ni kan ju alltid vara med där!
           <br />
-          <br />Om ni har vidare frågor är ni välkomna att kontakta oss via exempelvis Facebook eller mobilnummer nedan:
-          Kajsa 0703866299
-          Jonas 0705777247
-          Glöm inte att OSA så att vi vet hur många vi blir och hör av er till toastmasters Sebastian eller Julia för vidare frågor.
-          Massor av kramar!
-          Kajsa och Jonas
+          <br />Om ni har vidare frågor är ni välkomna att kontakta oss via
+          exempelvis Facebook eller mobilnummer nedan: Kajsa 0703866299 Jonas
+          0705777247 Glöm inte att OSA så att vi vet hur många vi blir och hör
+          av er till toastmasters Sebastian eller Julia för vidare frågor.
+          Massor av kramar! Kajsa och Jonas
         </p>
 
         <h2>
           <b>OBS!</b>
         </h2>
-        <p
-          class="tile is-8 is-center"
-        >OBS! Då intresset inte varit stort så har vi valt att avbokat bussen. Ni får därmed fixa skjuts på egen hand eller åka taxi. Kram från Kajsa och Jonas</p>
+        <p class="tile is-8 is-center">
+          OBS! Då intresset inte varit stort så har vi valt att avbokat bussen.
+          Ni får därmed fixa skjuts på egen hand eller åka taxi. Kram från Kajsa
+          och Jonas
+        </p>
+
+        <h2>
+          <b>OBS!</b>
+        </h2>
+        <p class="tile is-8 is-center">
+          Hej allesammans! Nu börjar den stora dagen närma sig. På grund av
+          rådande omständigheter har vi inte kunnat ta oss till Tyskland och
+          köpa alkohol som planerat. Vi kommer därför bjuda på dryck till
+          middagen men senare kommer dryck serveras till självkostnadspris,
+          Swish är att föredra! Myndigheterna har ännu inte höjt gränsen för
+          folksamlingar så om de inte hinner göra detta kommer några få följa
+          vigseln utanför kyrkan. Vi återkommer närmre kring detta! Hojta till
+          Jonas eller Kajsa om ni har frågor. Glöm inte att anmäla tal eller
+          annat till toastmasters, de kan också svara på fråga om present. Vi
+          ses snart, Kram brudparet
+        </p>
+
+        <h2>
+          <b>Hälsningar från toastmasters!</b>
+        </h2>
+        <p class="tile is-8 is-center">
+          Angående bröllopspresent kan man swisha denna till Julia på
+          telefonnummer 070-574 20 88, märk swish med namn som gåvan är från.
+          Det kommer finnas ett presentbord på plats i festlokalen om man vill
+          lämna ett kort också!
+        </p>
       </div>
     </div>
   </section>
